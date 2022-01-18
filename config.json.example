@@ -22,5 +22,7 @@
     "replace.candidate": "City Growth",
     "replace.forbidden" : "",
     "course.forbidden" :"",
-    "course.favorite" : ""
+    "course.favorite" : "",
+
+    "banned_time": ["周一上午", "周一下午", "周二上午", "周二晚上", "周三晚上", "周四下午", "周四晚上"]
 }
